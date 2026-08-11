@@ -1,0 +1,29 @@
+{
+  "title": "Przykład 3 — końcówka",
+  "subtitle": "Ręce 0–1 karta; jedna karta na stole",
+  "output": "przyklad3_koncowka.png",
+  "players": [
+    {
+      "name": "Ty",
+      "position": "south",
+      "cards": ["Jc"]
+    },
+    {
+      "name": "Zachód",
+      "position": "west",
+      "cards": []
+    },
+    {
+      "name": "Północ",
+      "position": "north",
+      "face_up": false,
+      "cards": 1
+    },
+    {
+      "name": "Wschód",
+      "position": "east",
+      "cards": []
+    }
+  ],
+  "trick": ["Qd"]
+}

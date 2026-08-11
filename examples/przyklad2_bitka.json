@@ -1,0 +1,30 @@
+{
+  "title": "Przykład 2 — bitka w toku",
+  "subtitle": "3 karty na stosie (kolejność 1→2→3); ręce mieszane",
+  "output": "przyklad2_bitka.png",
+  "players": [
+    {
+      "name": "Ty",
+      "position": "south",
+      "cards": ["Qh", "Jd", "Ac"]
+    },
+    {
+      "name": "Zachód",
+      "position": "west",
+      "face_up": false,
+      "cards": 2
+    },
+    {
+      "name": "Północ",
+      "position": "north",
+      "cards": ["?", "10s", "?"]
+    },
+    {
+      "name": "Wschód",
+      "position": "east",
+      "face_up": true,
+      "cards": ["As", "10c"]
+    }
+  ],
+  "trick": ["Ah", "10d", "Qs"]
+}

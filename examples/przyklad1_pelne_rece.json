@@ -1,0 +1,37 @@
+{
+  "title": "Przykład 1 — pełne ręce, pusty stos",
+  "subtitle": "Wszyscy mają po 4 karty; południe odsłonięte",
+  "output": "przyklad1_pelne_rece.png",
+  "players": [
+    {
+      "name": "Ty (Południe)",
+      "position": "south",
+      "face_up": true,
+      "cards": [
+        "Ah",
+        "10h",
+        "Qc",
+        "Js"
+      ]
+    },
+    {
+      "name": "Zachód",
+      "position": "west",
+      "face_up": false,
+      "cards": 4
+    },
+    {
+      "name": "Północ",
+      "position": "north",
+      "face_up": false,
+      "cards": 4
+    },
+    {
+      "name": "Wschód",
+      "position": "east",
+      "face_up": false,
+      "cards": 4
+    }
+  ],
+  "trick": []
+}
